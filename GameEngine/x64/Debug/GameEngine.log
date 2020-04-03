@@ -1,0 +1,28 @@
+﻿  Dot.cpp
+  Draw.cpp
+C:\Users\zqzqz\source\Repos\GameEngine\Draw.cpp(5,34): error C3867: "Dot::getTexture": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+  Engine.cpp
+C:\Users\zqzqz\source\Repos\GameEngine\Engine.cpp(5,44): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zqzqz\source\Repos\GameEngine\Engine.cpp(6,44): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zqzqz\source\Repos\GameEngine\Engine.cpp(8,52): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zqzqz\source\Repos\GameEngine\Engine.cpp(8,38): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  GameEngine.cpp
+  input.cpp
+  Update.cpp
+  Создание кода...
